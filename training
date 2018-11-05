@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is a new training file meant to screw things up
+=======
+This is another example of a training file created in order to force a merge conflict
+
+
+
+yay!
+>>>>>>> training/howtobranch
