@@ -10,7 +10,8 @@ git branch feature/myfancyfeature --you're not making a folder here, this is jus
 --You're always on a branch. The default branch you're on is master. 
 --just typing 'git branch' will show you all branches, and there's a star next to the branch you're on
 git checkout --switches to a branch
-git merge --
+git branch -d nameofbranch --deletes a branch
+git merge nameofbranch -- will merge branch into current branch
 git fetch --
 git pull --fetch and then merge
 git stash --
