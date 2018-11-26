@@ -16,3 +16,12 @@ git fetch --
 git pull --fetch and then merge
 git stash --
 
+
+github
+------------
+git clone url
+when you clone something that you have no rights for, and make changes, you send a pull request (you request that THEY pull your work)
+
+
+git fork url
+git clone FROM YOUR URL THAT THE FORK MADE
