@@ -25,3 +25,24 @@ when you clone something that you have no rights for, and make changes, you send
 
 git fork url
 git clone FROM YOUR URL THAT THE FORK MADE
+make some stuff in the fork
+git add files
+git commit -m mymessage
+git push
+ENTER git stuff
+
+
+you can add things as remotes. Example: you forked from A and made B, you changed B to B', somebody pulled B' into A to make A' and then worked more on A' to make A''. You want A'' to be reflected in your B'.
+
+git remote add "YOUR CALL FOR A NAME" [url of thing you forked]
+git remote
+git fetch ruddy
+git pull ruddy master
+you then need to push the things you've pulled from A'' to B' to make B''
+
+
+ISSUES
+----------
+issue is a tab on github
+
+
